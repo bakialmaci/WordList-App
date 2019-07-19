@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Homepage</title>
+</head>
+<body>
+<div class="container">
+    <form action="/" method="POST">
+            <p><%= word %></p>
+        <input  type="text" name="cevap">
+        <div class="buttons">
+            <button type="submit" id="pass"><i class="material-icons" id="t_pass">autorenew</i></button>
+            <button type="submit" id="send"><i class="material-icons" id="t_send">send</i></button>
+            <button type="submit" id="answer"><i class="material-icons" id="t_answer">insert_drive_file</i></button>
+        </div>
+    </form>
+    <div class="answer">
+            <% if(result== "1"){ %>
+            <p>Correct</p> 
+            <% } %>
+            <% if(result== "0"){ %>
+                <p style="color: red">Wrong</p> 
+                <% } %>
+        </div>
+</div>
+</body>
+</html>
