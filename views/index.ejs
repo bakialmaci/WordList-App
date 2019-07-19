@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="utf8.js"></script>
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css" type="text/css">
     <meta charset="UTF-8">
@@ -14,18 +15,15 @@
             <p><%= word %></p>
         <input  type="text" name="cevap">
         <div class="buttons">
-            <button type="submit" id="pass"><i class="material-icons" id="t_pass">autorenew</i></button>
+            <button type="submit" name="pass" value="pass" id="pass"><i class="material-icons" id="t_pass">autorenew</i></button>
             <button type="submit" id="send"><i class="material-icons" id="t_send">send</i></button>
-            <button type="submit" id="answer"><i class="material-icons" id="t_answer">insert_drive_file</i></button>
+            <button type="submit" name="answer" value="answer" id="answer"><i class="material-icons" id="t_answer">insert_drive_file</i></button>
         </div>
     </form>
     <div class="answer">
-            <% if(result== "1"){ %>
-            <p>Correct</p> 
+            <% if(result){ %>
+            <p><%= result %></p> 
             <% } %>
-            <% if(result== "0"){ %>
-                <p style="color: red">Wrong</p> 
-                <% } %>
         </div>
 </div>
 </body>
