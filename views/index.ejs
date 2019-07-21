@@ -11,13 +11,17 @@
 </head>
 <body>
 <div class="container">
+    <div class="info">
+            <div id="true" style="color: green">True: <strong><%= trues %></strong> </div>
+            <div id="false" style="color: red">False: <strong><%= falses %></strong> </div>
+    </div>
     <form action="/" method="POST">
             <p><%= word %></p>
         <input  type="text" name="cevap">
         <div class="buttons">
-            <button type="submit" name="pass" value="pass" id="pass"><i class="material-icons" id="t_pass">autorenew</i></button>
-            <button type="submit" id="send"><i class="material-icons" id="t_send">send</i></button>
-            <button type="submit" name="answer" value="answer" id="answer"><i class="material-icons" id="t_answer">insert_drive_file</i></button>
+            <button type="submit" name="pass"    value="pass"   id="pass"><i class="material-icons" id="t_pass">autorenew</i></button>
+            <button type="submit" name="send"    value="send"   id="send"><i class="material-icons" id="t_send">send</i></button>
+            <button type="submit" name="answer"  value="answer" id="answer"><i class="material-icons" id="t_answer">insert_drive_file</i></button>
         </div>
     </form>
     <div class="answer">

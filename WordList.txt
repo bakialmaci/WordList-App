@@ -1,102 +1,128 @@
-be irresolute -> seçenekler arasında kararsız kalmak
-obstacle -> engel
-tükenmek -> drain away
-valiant,brave -> cesur, yiğit
-creeper -> sarmaşık
-alley -> sokak arası
-blame -> ayıplamak
-accuse -> suçlamak
-faith -> inanç
-strained -> gergin
-sincerely -> samimi olarak
-flush -> yüzü kızarmak
-identifier -> belirteç
-reuse -> yeniden kullanmak
-omission -> ihmal
-neglect -> ihmal etmek
-guilty -> suçlu
-clue -> ipucu
-hazard -> risk,tehlike
-batch -> bir defada alınan miktar, yığın
-strain -> gerilmek
-audit -> denetim
-predecessor -> cet,ata
-alias -> sahte isim
-associate -> birleştirmek,ilişkilendirmek
-reward -> ödüllendirmek, mükafat
-regard -> saymak, hesaba katmak
-agent -> temsilci
-arbitary -> keyfi
-rigid -> sert, sabit
-gantry -> rampa
-collision -> çarpışma
-regarded -> addedilen
-outcomes -> sonuçlar
-kite -> uçurtma
-crucial -> çok önemli
-redundancy -> dolambaçlı yol
-reinforcement -> takviye,takviye etmek
-intent -> niyet,maksat
-scribing -> sivri uçla çizme
-proposal -> öneri,teklif
-literally -> kelime kelime
-thrill -> heyecan , bela
-proper -> uygun,münasip
-deserve -> hak etmek,layık olmak
-dilution -> seyreltme
-portion -> paylaştırmak
-distorting -> bozucu
-best regards -> saygılarımla
-arbitrarily -> isteğe göre
-sufficiently -> yeteri kadar
-refer -> işaret etmek, kastetmek
-identical -> aynı
-restrict -> sınırlamak
-intuitive -> sezgisel
-tailor -> terzi
-sew -> dikmek
-gambling -> kumarcı
-misery -> sefalet, ısdırap
-sin -> günah
-mitzvah -> sevap
-holdout -> reddetme
-consultant -> uzman, danışman
-competitive -> rekabetçi
-portion -> paylaştırmak
-leakage -> sızıntı
-resemble -> benzemek
-witness -> şahit olmak, tanık
-convict -> mahkum
-nebulous -> şüpheli, net olmayan
-cram -> ineklemek, çok çalışmak
-veer -> yön değiştirmek
-concerned -> ilgili, endişeli
-adopt -> evlat edinmek
-embarrass -> mahcup etmek, utandırmak
-beat -> data
-maltreated -> kötü davranılmış, suistimale uğrayan
-sweetheart -> tatlım
-cutie -> sevimli kız, tatlış
-mofo -> şerefsiz, (slang)
-grocery store -> bakkal, toptancı
-broad -> engin, geniş
-pernicious -> tehlikeli, kötücül
-superficially -> yalapşap, üstünkörü
-convincing -> inandırıcı
-myriad -> çok büyük sayı
-consequence -> netice ,akıbet
-studied -> üzerinde çalışılmış, düşünülmüş
-voracious -> obur
-adversarial - muhalif
-beggar -> dilenci
-nip -> kıstırmak
-here we go -> işte başlıyoruz, haydi bakalım
-leak -> sızdırmak
-supposedly -> sözümona, sözde
-adorable -> tapılası, şirin
-creepy -> ürpertici
-underscore ->alt tre
-explicitly -> açık bir şekilde
-consequence -> netice, sonuç
-instantiate -> kanıt sunmak, örneklerle desteklemek
-detach -> kopmak, ayrılmak
+ï»¿be irresolute-seÃ§enekler arasÄ±nda kararsÄ±z kalmak
+obstacle-engel
+drain-away-tÃ¼kenmek
+brave-cesur,yiÄŸit
+creeper-sarmaÅŸÄ±k
+alley-sokak arasÄ±
+blame-ayÄ±plamak
+accuse-suÃ§lamak
+faith-inanÃ§
+strained-gergin
+sincerely-samimi olarak
+flush yÃ¼zÃ¼-kÄ±zarmak
+identifier-belirteÃ§
+reuse-yeniden kullanmak
+omission-ihmal
+neglect-ihmal etmek
+guilty-suÃ§lu
+clue-ipucu
+hazard-risk,tehlike
+batch-bir defada alÄ±nan miktar,yÄ±ÄŸÄ±n
+strain-gerilmek
+audit-denetim
+predecessor-cet,ata
+alias-sahte isim
+associate-birleÅŸtirmek,iliÅŸkilendirmek
+reward-Ã¶dÃ¼llendirmek,mÃ¼kafat
+regard-saymak,hesaba katmak
+agent-temsilci
+arbitary-keyfi
+rigid-sert,sabit
+gantry-rampa
+collision-Ã§arpÄ±ÅŸma
+regarded-addedilen
+outcomes-sonuÃ§lar
+kite-uÃ§urtma
+crucial-Ã§ok Ã¶nemli
+redundancy-dolambaÃ§lÄ± yol
+reinforcement-takviye,takviye etmek
+intent-niyet,maksat
+scribing-sivri uÃ§la Ã§izme
+proposal-Ã¶neri,teklif
+literally-kelime kelime
+thrill-heyecan,bela
+proper-uygun,mÃ¼nasip
+deserve-hak etmek,layÄ±k olmak
+dilution-seyreltme
+portion-paylaÅŸtÄ±rmak
+distorting-bozucu
+best regards-saygÄ±larÄ±mla
+arbitrarily-isteÄŸe gÃ¶re
+sufficiently-yeteri kadar
+refer-iÅŸaret etmek,kastetmek
+identical-aynÄ±
+restrict-sÄ±nÄ±rlamak
+intuitive-sezgisel
+tailor-terzi
+sew-dikmek
+gambling-kumarcÄ±
+misery-sefalet,Ä±sdÄ±rap
+sin-gÃ¼nah
+mitzvah-sevap
+holdout-reddetme
+consultant-uzman,danÄ±ÅŸman
+competitive-rekabetÃ§i
+portion-paylaÅŸtÄ±rmak
+leakage-sÄ±zÄ±ntÄ±
+resemble-benzemek
+witness-ÅŸahit olmak,tanÄ±k
+convict-mahkum
+nebulous-ÅŸÃ¼pheli,net olmayan
+cram-ineklemek,Ã§ok Ã§alÄ±ÅŸmak
+veer-yÃ¶n deÄŸiÅŸtirmek
+concerned-ilgili,endiÅŸeli
+adopt-evlat edinmek
+embarrass-mahcup etmek,utandÄ±rmak
+beat-data
+maltreated-kÃ¶tÃ¼ davranÄ±lmÄ±ÅŸ,suistimale uÄŸrayan
+sweetheart-tatlÄ±m
+cutie-sevimli kÄ±z,tatlÄ±ÅŸ
+mofo-ÅŸerefsiz
+grocery-store bakkal,toptancÄ±
+broad-engin,geniÅŸ
+pernicious-tehlikeli,kÃ¶tÃ¼cÃ¼l
+superficially-yalapÅŸap,Ã¼stÃ¼nkÃ¶rÃ¼
+convincing-inandÄ±rÄ±cÄ±
+myriad-Ã§ok bÃ¼yÃ¼k sayÄ±
+consequence-netice,akÄ±bet
+voracious-obur
+adversarial-muhalif
+beggar-dilenci
+nip-kÄ±stÄ±rmak
+here we go-iÅŸte baÅŸlÄ±yoruz,haydi bakalÄ±m
+leak-sÄ±zdÄ±rmak
+supposedly-sÃ¶zÃ¼mona,sÃ¶zde
+adorable-tapÄ±lasÄ±
+creepy-Ã¼rpertici
+underscore-alt tre
+explicitly-aÃ§Ä±k bir ÅŸekilde
+consequence-netice,sonuÃ§
+instantiate-kanÄ±t sunmak,Ã¶rneklerle desteklemek
+detach-kopmak,ayrÄ±lmak
+slam dunk-smaÃ§
+convenient-mÃ¼sait,uygun
+assure-garanti etmek
+arbitrary-keyfi
+trace-izini sÃ¼rmek
+correspond-tekabÃ¼l etmek
+curvature-eÄŸrilik
+denote-ifade etmek
+reciprocal-karÅŸÄ±lÄ±klÄ±
+convention-dÃ¼zen
+make sense-anlam ifade etmek
+intriqued-merakÄ± uyanmÄ±ÅŸ
+compelling-zorlayÄ±cÄ±
+journal-bÃ¼lten,dergi
+toward-iÃ§in,yÃ¶nÃ¼nde
+endorsement-ciro
+retail-parakende satÄ±ÅŸ
+affordable-bÃ¼tÃ§eye uygun
+gradually-gitgide
+stirring-heyecan verici
+ultimately-eninde sonunda
+briefcase-evrak Ã§antasÄ±
+absence-olmayÄ±ÅŸ
+figure out-Ã§Ã¶zmek
+soul-hissiyat
+confident-kendine gÃ¼venen
+draggy-sÄ±kÄ±ntÄ± verici
