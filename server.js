@@ -23,12 +23,12 @@ function getWord(){
     tempList.push(newWord);
   }
 
-function answerVerify(answer,reply){
-    var a = answer.split("");
-    var b = reply.split("");
+function answerVerify(reply,answer){
+    var a = answer.trim().split("");
+    var b = reply.trim().split("");
     let intersection = a.filter(x => b.includes(x));
-    console.log(a.length/b.length);
-    if(a.length/b.length >= 0.8){
+    // console.log(intersection,a);
+    if(intersection.length/a.length >= 0.8){
         return 1;
     }else{
         return 0;
@@ -37,7 +37,7 @@ function answerVerify(answer,reply){
 
 function postController(req,res){
     if(req.body.send){
-        if(answerVerify(req.body.cevap.trim(),newWord[1].trim())){
+        if(answerVerify(req.body.cevap,newWord[1])){
             trueCount += 1;
             res.redirect('/');
             res.end();
