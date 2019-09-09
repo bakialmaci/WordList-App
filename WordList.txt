@@ -1,6 +1,6 @@
-﻿be irresolute-seçenekler arasında kararsız kalmak
+be irresolute-seçenekler arasında kararsız kalmak
 obstacle-engel
-drain-away-tükenmek
+drain away-tükenmek
 brave-cesur,yiğit
 creeper-sarmaşık
 alley-sokak arası
@@ -126,3 +126,55 @@ figure out-çözmek
 soul-hissiyat
 confident-kendine güvenen
 draggy-sıkıntı verici
+inclination-meyil
+ascend-yükselmek,artmak
+compensate-telafi etmek
+interpret-yorumlamak,değerlendirmek
+trivial-önemsiz,ıvır zıvır
+concrete-somut
+strictly-tam anlamıyla
+likewise-aynı şekilde
+fudge-kaçınmak
+abomination-nefret
+spell-büyü
+savage-vahşi
+peek-gözetlemek
+appointment-tayin
+retarded-özürlü
+crush-ezmek
+leaf-yaprak
+garnish-süslemek
+clasp-toka
+cave-mağara
+treasure-hazine
+recap-özet
+delight-zevk almak
+wander-gezmek
+burrow-küçük oyuk
+leap-sekmek
+priest-papaz
+jay-karga
+unlike-den farklı olarak
+arrogant-kibirli
+ridiculous-gülünç
+hare-tavşan
+excitement-heyecan
+sting-sokmak(arı sokması gibi)
+disband-dağılmak
+conformity-uyumluluk
+cohesiveness-bağlayıcılık
+inherent-doğasında var olan
+drawback-dezavantaj
+attitude-davranış,tutum
+cognitive-bilişsel,zekasal
+dissonance-uyumsuzluk
+incompatibility-uyumsuzluk
+extraversion-dışa dönüklülük
+agreeableness-hoşluk
+conscientious-özenli
+trait-kişisel özellik
+conventional-geleneksel,törel
+enterprising-girişimci
+perception-algı
+attribution-nitelik
+extinction-feshetme
